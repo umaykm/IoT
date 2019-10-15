@@ -1,3 +1,4 @@
+
 const int ledPin = 23; //GPIO16 LED PIN
 //setting PWM properties
 const int freq = 5000;
